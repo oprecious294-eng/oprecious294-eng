@@ -64,7 +64,8 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 📈 GitHub | 💻 Languages | 📫 Contact |
 |-----------|--------------|-----------|
-| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:**https://www.linkedin.com/in/odion-precious-efe-48458a264/<br>**Email:** Oprecious294@gmail.com |
+| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** [click here]
+(https://www.linkedin.com/in/odion-precious-efe-48458a264)/<br>**Email:** Oprecious294@gmail.com |
 
 ---
 
