@@ -40,23 +40,23 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # ⭐ Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🏠 Home Lab | Multi-VM Cybersecurity Lab |
-| 🔐 AD CS | Enterprise Certificate Services |
-| 👥 Active Directory GPO | Secure Group Policy Configuration |
-| ☁ AWS IAM | Identity & Access Management |
-| ☁ Azure IAM | Microsoft Entra Identity |
-| 🐧 Linux IAM | User & Permission Management |
-| 🛡 Nessus | Network Vulnerability Management |
-| 📊 Qualys | Enterprise Vulnerability Management |
-| ☁ Prowler | AWS Cloud Security Assessment |
-| 🎯 Penetration Testing | Network & Web Security Testing |
-| 📈 Splunk SIEM | Detection & Monitoring |
-| 🔎 MITRE ATT&CK | Threat Hunting & Detection |
-| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |
-| 📧 Zphisher | Security Awareness Simulation |
-| 🦠 Malware Analysis | Static & Dynamic Analysis |
+| Project | Description | Project link |
+|---------|-------------|----------------|
+| 🏠 Home Lab | Multi-VM Cybersecurity Lab | [view project]() |
+| 🔐 AD CS | Enterprise Certificate Services | [view project]() |
+| 👥 Active Directory GPO | Secure Group Policy Configuration | [view project]() |
+| ☁ AWS IAM | Identity & Access Management | [view project]() |
+| ☁ Azure IAM | Microsoft Entra Identity | [view project]() |
+| 🐧 Linux IAM | User & Permission Management | [view project]() |
+| 🛡 Nessus | Network Vulnerability Management | [view project]() |
+| 📊 Qualys | Enterprise Vulnerability Management | [view project]() |
+| ☁ Prowler | AWS Cloud Security Assessment | [view project]() |
+| 🎯 Penetration Testing | Network & Web Security Testing | [view project]() |
+| 📈 Splunk SIEM | Detection & Monitoring | [view project]() |
+| 🔎 MITRE ATT&CK | Threat Hunting & Detection | [view project]() |
+| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls | [view project]() |
+| 📧 Zphisher | Security Awareness Simulation | [view project]() |
+| 🦠 Malware Analysis | Static & Dynamic Analysis | [view project]() |
 
 ---
 
