@@ -45,8 +45,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab | [view project](https://github.com/oprecious294-eng/Multi-VM-Cybersecurity-Lab) |
 | 🏠 Network Segmentation| Segregation of Network | [view project](https://github.com/oprecious294-eng/Network-segmentation-)
 | 🔐 IAM on-prem |identity & access management using Active Directory | [view project](https://github.com/oprecious294-eng/identity-access-management-using-Active-Directory) |
-| 👥 Active Directory GPO | Secure Group Policy Configuration | [view project]() |
-| ☁ AWS IAM | Identity & Access Management | [view project]() |
+| ☁ AWS IAM | Identity & Access Management | [view project](https://github.com/oprecious294-eng/identityaccessmanagement-using-Aws) |
 | ☁ Azure IAM | Microsoft Entra Identity | [view project]() |
 | 🐧 Linux IAM | User & Permission Management | [view project]() |
 | 🛡 Nessus | Network Vulnerability Management | [view project]() |
