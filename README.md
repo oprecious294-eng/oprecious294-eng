@@ -17,7 +17,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
 |---------------|--------------------------|
-| • Cybersecurity Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering | **Cloud:** AWS, Azure<br>**IAM:** AD CS, GPO, AWS IAM, Azure IAM, Linux IAM<br>**Security:** Nessus, Qualys, Prowler, Splunk, Wireshark, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
+| • Cybersecurity Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering | **Cloud:** AWS,<br>**IAM:** AD CS, GPO, AWS IAM, <br>**Security:** Nessus, Qualys, Prowler, Splunk, Wireshark, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
 
 ---
 
