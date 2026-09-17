@@ -48,7 +48,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | ☁ AWS IAM | Identity & Access Management Using AWS | [view project](https://github.com/oprecious294-eng/identityaccessmanagement-using-Aws) |
 | ☁ Azure IAM | Microsoft Entra Identity | [view project]() |
 | 🐧 Linux IAM | User & Permission Management | [view project]() |
-| 🛡 Nessus | Network Vulnerability Management | [view project]() |
+| 🛡 Nessus | Network Vulnerability Management | [view project](https://github.com/oprecious294-eng/Network-Vulnerability-Management) |
 | 📊 Qualys | Enterprise Vulnerability Management | [view project]() |
 | ☁ Prowler | AWS Cloud Security Assessment | [view project]() |
 | 🎯 Penetration Testing | Network & Web Security Testing | [view project]() |
