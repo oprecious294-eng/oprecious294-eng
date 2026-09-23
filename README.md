@@ -27,7 +27,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 |---------|----------|
 | 🏠 Lab Infrastructure | Virtual Home Lab |
 | 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM •  |
-| ☁ Cloud Security | AWS Secure Deployment • Azure Secure Deployment • Prowler |
+| ☁ Cloud Security | AWS Secure Deployment •  Prowler |
 | 🛡 Vulnerability Management | Nessus • Qualys VMDR • Patch Management |
 | 🚨 Detection & Monitoring | Splunk SIEM • Log Analysis |
 | 🎯 Penetration Testing | Network Pentesting • Web Application Pentesting |
@@ -50,7 +50,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🐧 Linux IAM | User & Permission Management | [view project]() |
 | 🛡 Nessus | Network Vulnerability Management | [view project](https://github.com/oprecious294-eng/Network-Vulnerability-Management) |
 | 📊 Qualys | Enterprise Vulnerability Management | [view project]() |
-| ☁ Prowler | AWS Cloud Security Assessment | [view project]() |
+| ☁ Prowler | AWS Cloud Security Assessment | [view project](https://github.com/oprecious294-eng/AWS-Cloud-Security-Assessment) |
 | 🎯 Penetration Testing | Network & Web Security Testing | [view project]() |
 | 📈 Splunk SIEM | Detection & Monitoring | [view project]() |
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection | [view project]() |
