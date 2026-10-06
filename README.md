@@ -28,7 +28,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🏠 Lab Infrastructure | Virtual Home Lab |
 | 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM •  |
 | ☁ Cloud Security | AWS Secure Deployment •  Prowler |
-| 🛡 Vulnerability Management | Nessus • Qualys VMDR • Patch Management |
+| 🛡 Vulnerability Management | Nessus • Patch Management |
 | 🚨 Detection & Monitoring | Splunk SIEM • Log Analysis |
 | 🎯 Penetration Testing | Network Pentesting • Web Application Pentesting |
 | 🔎 Threat Hunting | MITRE ATT&CK • IOC Hunting • Detection Engineering |
