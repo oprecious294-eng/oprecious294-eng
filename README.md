@@ -53,7 +53,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | ☁ Prowler | AWS Cloud Security Assessment | [view project](https://github.com/oprecious294-eng/AWS-Cloud-Security-Assessment) |
 | 🎯 Penetration Testing | Network & Web Security Testing | [view project]() |
 | 📈 Splunk SIEM | Detection & Monitoring | [view project]() |
-| 🔎 MITRE ATT&CK | Threat Hunting & Detection | [view project]() |
+| 🔎 MITRE ATT&CK | Threat Hunting & Detection | [view project](https://github.com/oprecious294-eng/Threat-Hunting-Detection) |
 | 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls | [view project]() |
 | 📧 Zphisher | Security Awareness Simulation | [view project]() |
 | 🦠 Malware Analysis | Static & Dynamic Analysis | [view project]() |
